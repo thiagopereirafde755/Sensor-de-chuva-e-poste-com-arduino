@@ -9,7 +9,7 @@ int ledverde = 2;
 int ledvermelho = 3;
 int buzzer =4; 
 
-int LED = 8; // O LED esta¡
+int LED = 8; // O LED esta
  conectado ao pino 9
 int LDR = A5; // O LDR esta conectado ao pino A0
 
