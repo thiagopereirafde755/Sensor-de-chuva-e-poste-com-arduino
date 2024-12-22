@@ -100,7 +100,6 @@ void controlarLuzComPalmas() {
     unsigned long tempoAposPalma = time - startTime;
     int sensorValue = analogRead(sensorSom);
 
-    // Removido o envio do valor do sensor de som para o monitor serial
     // Serial.print("Valor do Sensor de Som: ");
     // Serial.println(sensorValue);
 
